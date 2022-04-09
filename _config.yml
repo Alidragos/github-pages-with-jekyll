@@ -11,4 +11,12 @@ github_username:  Alidragos # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+minima:
+    date_format: "%b %-d, %Y"
+ 
+ social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    
+ # Build settings
 theme: minima
