@@ -1,1 +1,4 @@
-quick draft of your blog post
+---
+title: "Cameras Blog"
+date: 2019-01-20
+---
